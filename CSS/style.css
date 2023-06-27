@@ -1,0 +1,32 @@
+/* CSS Document */
+*{
+	margin:0 3px 0 3px;
+	padding:0;
+	text-align:center;
+}
+body{
+	font-family:sans-serif;
+}
+footer{
+	background-color:#FFF;
+	color:#999;
+}
+
+
+#btn{
+	color:#FFF;
+	display: inline-block; 
+}
+span{
+	font-size:13px
+}
+h6{
+	color:#666;
+	font-size:14px;
+}
+button, input, optgroup, select, textarea{
+	margin:10px;
+}
+img{
+	margin-top:3px;
+}
